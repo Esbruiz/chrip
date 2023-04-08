@@ -41,6 +41,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Esteban\\workspace\\chirp\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
     "ts.external.directory.path": "C:\\Users\\Esteban\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\231.8109.174\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680939071821</updated>
-      <workItem from="1680939072840" duration="1313000" />
+      <workItem from="1680939072840" duration="2154000" />
     </task>
     <servers />
   </component>
